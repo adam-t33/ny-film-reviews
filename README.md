@@ -8,9 +8,9 @@ This repository contains reviews of films currently showing in New York theaters
 
 ## Structure
 
-- `/reviews/ - Individual film reviews
-* `/watchlists/ - Monthly curated watchlists
-* `/ratings/ - Aggregated rating system
+- `/reviews/` - Individual film reviews  
+- `/watchlists/` - Monthly curated watchlists
+- `/ratings/` - Aggregated rating system
 
 ## Contributing
 
@@ -19,3 +19,7 @@ Feel free to add your own reviews via pull request.
 ## License
 
 MIT
+
+---
+
+*Last updated: February 2026*
